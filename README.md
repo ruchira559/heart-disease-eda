@@ -31,3 +31,14 @@ The dataset consists of **270 observations** and **14 variables**.
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/yourusername/heart-disease-eda.git](https://github.com/yourusername/heart-disease-eda.git)
+   ```
+
+2. **Install dependencies: Ensure you have Python installed, then run:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the Notebook: Launch Jupyter Notebook to view the analysis:**
+   ```bash
+   jupyter notebook Heart_Disease_EDA.ipynb
+   ```
